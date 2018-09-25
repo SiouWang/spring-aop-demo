@@ -1,8 +1,10 @@
 package com.example.service;
 
-import com.example.entity.User;
-
 public interface UserService {
 
-    User getUser();
+    void getUserName();
+
+    void updateUser(String userName);
+
+    String listUser();
 }

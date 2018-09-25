@@ -4,3 +4,12 @@
 .idea/libraries/Maven__ch_qos_logback_logback_classic_1_0_6.xml
 .idea/libraries/Maven__ch_qos_logback_logback_classic_1_0_6.xml
 .idea/libraries/Maven__ch_qos_logback_logback_classic_1_0_6.xml
+.idea/libraries/Maven__junit_junit_4_12.xml
+.idea/libraries/Maven__org_aspectj_aspectjrt_1_9_1.xml
+.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml
+.idea/libraries/Maven__org_springframework_spring_test_5_0_8_RELEASE.xml
+.idea/vcs.xml
+.idea/workspace.xml
+spring-aop-demo.iml
+target/classes/com/example/annotation/CommonLogHandler.class
+target/classes/com/example/annotation/MyAspectHandler.class
